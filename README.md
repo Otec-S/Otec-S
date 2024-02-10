@@ -37,8 +37,7 @@ My goal is to become a highly skilled developer capable of tackling complex chal
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Otec-S&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-
+---
 
 I'm eager to collaborate!
 
