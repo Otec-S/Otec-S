@@ -1,6 +1,6 @@
 Hey there!
 
-I'm a web **application developer**. 👨‍💻
+I'm a **web application developer**. 👨‍💻
 
 My passion for coding started back in my childhood when I got introduced to ZX Spectrum and began programming in **basic**.
 
