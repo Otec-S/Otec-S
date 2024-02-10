@@ -11,7 +11,6 @@ During my tenure at various companies, I gained valuable experience as both a **
 My goal is to become a highly skilled developer capable of tackling complex challenges and creating innovative products.
 
 **Tech Stack:**
-
 Programming Languages: **JavaScript, TypeScript**.
 Frameworks and Libraries: **React, Node.js, Express.js**.
 Databases: **MongoDB, MySQL**.
