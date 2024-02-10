@@ -1,21 +1,21 @@
-Привет!
+Hey there!
 
-Я **разработчик веб-приложений**. 👨‍💻
+I'm a web **application developer**. 👨‍💻
 
-Моё увлечение началось в детстве, когда я познакомился с ZX Spectrum и начал программировать на **basic**.
+My passion for coding started back in my childhood when I got introduced to ZX Spectrum and began programming in **basic**.
 
-После перерыва на другую работу я вернулся к своей страсти – созданию веб-приложений.
+After a hiatus for another job, I returned to my passion - building web applications.
 
-За время работы в различных компаниях я приобрел ценный опыт как **frontend**, так и **fullstack разработчика**. Я создал ряд приложений, используя **JavaScript**, **TypeScript**, **React**, **Node.js**, а также поработал с базами данных и научился настраивать сервер на **Ubuntu**.
+During my tenure at various companies, I gained valuable experience as both a **frontend** and **fullstack** developer. I've crafted a number of applications using **JavaScript, TypeScript, React, Node.js**, and have also delved into databases and learned server setup on **Ubuntu**.
 
-**Моя цель** — стать **высококвалифицированным разработчиком**, который способен решать сложные задачи и создавать инновационные продукты.
+My goal is to become a highly skilled developer capable of tackling complex challenges and creating innovative products.
 
-Стек:
-- Языки программирования: **JavaScript**, **TypeScript**.
-- Фреймворки и библиотеки: **React**, **Node.js**, **Express.js**.
-- СУБД: **MongoDB**, **MySQL**.
-- Дополнительные инструменты: **HTML**, **CSS**, **Git**, **Webpack**.
+**Tech Stack:**
+Programming Languages: **JavaScript, TypeScript**.
+Frameworks and Libraries: **React, Node.js, Express.js**.
+Databases: **MongoDB, MySQL**.
+Additional Tools: **HTML, CSS, Git, Webpack**.
 
-Буду рад сотрудничеству!
+I'm eager to collaborate!
+**Let's create something awesome together!** 🚀
 
-Давайте вместе создадим что-нибудь **«залипательное»**! 🚀
