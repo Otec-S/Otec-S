@@ -39,6 +39,10 @@ My goal is to become a highly skilled developer capable of tackling complex chal
 
 ---
 
+[![codewars](https://www.codewars.com/users/Otec-S/badges/large)](https://www.codewars.com/users/Otec-S)
+
+---
+
 I'm eager to collaborate!
 
 **Let's create something awesome together!** 🚀
