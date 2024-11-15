@@ -9,7 +9,7 @@
 
 I'm a **web application developer**. 👨‍💻
 
-[Personal website](https://sergeygrigorash.com) — temporarily only in Russian.
+<a href="https://sergeygrigorash.com" target="_blank">My personal website</a> — temporarily only in Russian.
 
 My enthusiasm for coding started back in my childhood when I got introduced to ZX Spectrum and began programming in **basic**.
 
