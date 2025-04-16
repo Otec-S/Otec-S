@@ -9,7 +9,7 @@
 
 I'm a **frontend developer**. 👨‍💻
 
-<a href="https://sergeygrigorash.com" target="_blank">My personal website</a> — temporarily only in Russian.
+<a href="https://sergeygrigorash.com" target="_blank">My personal website</a>
 
 My enthusiasm for coding started back in my childhood when I got introduced to ZX Spectrum and began programming in **basic**.
 
